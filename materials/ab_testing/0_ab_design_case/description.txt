@@ -1,0 +1,9 @@
+Датасеты:
+- CTR в рекламных рассылках (train.csv) – https://www.kaggle.com/datasets/arashnic/ctr-in-advertisement
+- E-Commerce – https://www.kaggle.com/datasets/sufya6/e-commerce-customer-journey-click-to-conversion
+- Отток пользователей Netflix – https://www.kaggle.com/datasets/abdulwadood11220/netflix-customer-churn-dataset
+
+Задача:
+1. Выбрать датасет, провести базово EDA, очистку от выбросов, но не уделять этому большого внимания
+2. Согласно шаблону дизайна A/B-теста (experiment_design_template.py) собрать и оформить свой дизайн на выбранной метрике
+3. В результате должен получиться ipynb-ноут с загрузкой данных, EDA и дизайном A/B-теста, оформленным в соответствии с шаблоном. По всем вопросам писать Захару, 
